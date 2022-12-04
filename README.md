@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <h2></h2>
   </br>
   <span float="left">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinBean&theme=radical&langs_count=8&layout=compact&hide=c%2B%2B,SCSS,Tcl&exclude_repo=Unity-Bluetooth-IOS"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinBean&theme=radical&count_private=true&langs_count=8&layout=compact&hide=c%2B%2B,SCSS,Tcl,CSS,HTML,Powershell&exclude_repo=Unity-Bluetooth-IOS"/>
   </span>
   <span float="right">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=JinBean&theme=radical&show_icons=true&count_private=true&custom_title=Github%20Stats" />
