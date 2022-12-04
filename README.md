@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h2>🎵 Currently Vibing To 🎵</h2>
+  <h2></h2>
+  </br>
+  <p>🎵 Currently Vibing To 🎵</p>
   <img src="https://novatorem-q8p2pgmrx-jinbean.vercel.app/api/spotify"/>
 </div>
 
@@ -24,6 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2></h2>
+  </br>
   <span float="left">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinBean&theme=radical&langs_count=8&layout=compact&hide=c%2B%2B,SCSS,Tcl&exclude_repo=Unity-Bluetooth-IOS"/>
   </span>
