@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<span float="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JinBean&theme=radical&show_icons=true&count_private=true&custom_title=Github%20Stats" />
-</span>
-<span float="right">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinBean&langs_count=8&layout=compact&hide=c%2B%2B,SCSS,Tcl&exclude_repo=Unity-Bluetooth-IOS"/>
-</span>
+  <span float="left">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinBean&langs_count=8&layout=compact&hide=c%2B%2B,SCSS,Tcl&exclude_repo=Unity-Bluetooth-IOS"/>
+  </span>
+  <span float="right">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JinBean&theme=radical&show_icons=true&count_private=true&custom_title=Github%20Stats" />
+  </span>
 </div>
 
 <h2></h2>
@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="vue" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="heroku" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="travis" width="30" height="30" />
-
 </p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=JinBean" /></div>
