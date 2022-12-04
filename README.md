@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  <h2>🎵 Currently Vibing To 🎵</h2>
+  <img src="https://novatorem-q8p2pgmrx-jinbean.vercel.app/api/spotify"/>
+</div>
+
+
 
 <div align="center">
+  <h2></h2>
   <span float="left">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinBean&theme=radical&langs_count=8&layout=compact&hide=c%2B%2B,SCSS,Tcl&exclude_repo=Unity-Bluetooth-IOS"/>
   </span>
@@ -24,6 +31,11 @@ Here are some ideas to get you started:
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=JinBean&theme=radical&show_icons=true&count_private=true&custom_title=Github%20Stats" />
   </span>
 </div>
+
+</br>
+
+
+
 
 <h2></h2>
 <p align="center">
@@ -46,6 +58,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="heroku" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="travis" width="30" height="30" />
 </p>
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=JinBean" /></div>
-
