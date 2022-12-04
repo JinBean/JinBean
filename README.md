@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <h2></h2>
   </br>
   <p>🎵 Currently Vibing To 🎵</p>
-  <img height=150 src="https://novatorem-q8p2pgmrx-jinbean.vercel.app/api/spotify"/>
+  <img height=120 src="https://novatorem-q8p2pgmrx-jinbean.vercel.app/api/spotify"/>
 </div>
 
 
